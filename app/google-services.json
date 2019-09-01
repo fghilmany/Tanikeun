@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992000623345",
+    "firebase_url": "https://tanikeun.firebaseio.com",
+    "project_id": "tanikeun",
+    "storage_bucket": "tanikeun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992000623345:android:1006355e653536bb",
+        "android_client_info": {
+          "package_name": "com.example.tanikeun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992000623345-e9l7iivgc5n6649klg8hi9n2hpqoug2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanikeun",
+            "certificate_hash": "0096f32afd83437ae2e838e615e11aee8db13ee6"
+          }
+        },
+        {
+          "client_id": "992000623345-6n80id5c1qd0ipac0iruofhgmcfgl8ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAokKzCo_eSpz21Ci7ieD2WStlJx7fyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992000623345-6n80id5c1qd0ipac0iruofhgmcfgl8ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

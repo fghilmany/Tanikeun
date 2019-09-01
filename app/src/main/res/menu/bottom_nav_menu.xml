@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kontroling"
+        android:icon="@drawable/screen"
+        android:title="@string/kontroling" />
+
+    <item
+        android:id="@+id/jual_beli"
+        android:icon="@drawable/fruit"
+        android:title="@string/jual_panen" />
+
+    <item
+        android:id="@+id/profil"
+        android:icon="@drawable/farmer"
+        android:title="@string/profil"/>
+
+</menu>
